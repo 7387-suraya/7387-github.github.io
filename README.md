@@ -1,9 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
   <HEAD>
-    <TITLE>
-      Thailand
-    </TITLE>
+    Thailand
     </HEAD>
   <BODY>
     <h1>Ontdek het land van de glimach</h>
