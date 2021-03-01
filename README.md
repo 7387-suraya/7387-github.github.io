@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
   <HEAD>
+    <style>
     Body {background-color: pouwderblue;}
     h1 {color: red;}
    p {color; black;}
