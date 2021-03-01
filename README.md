@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
   <HEAD>
+    <Meta Charset="UTF-8">
      <body>
     <H1>Thailand</H1>
     <h5>Ontdek het land van de glimach</h5>
