@@ -1,7 +1,9 @@
 <!DOCTYPE HTML>
 <HTML>
   <HEAD>
-    <TITLE>Thailand</TITLE>
+    <TITLE>
+      Thailand
+    </TITLE>
     </HEAD>
   <BODY>
     
